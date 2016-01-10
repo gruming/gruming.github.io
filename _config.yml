@@ -18,7 +18,7 @@ permalink: /:year/:month/:day/:title/
 #duoshuo_shortname: lixizhi
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: gruming
+disqus_shortname: gruminggithubio
 disqus_url: "http://gruming.github.io"
 #########################################
 
